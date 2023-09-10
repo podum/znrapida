@@ -1,0 +1,7 @@
+{
+  "name": "znrapida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
